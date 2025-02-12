@@ -1,3 +1,10 @@
+[project]
+name = "rvc-beta"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.9"
+
 [tool.poetry]
 name = "rvc-beta"
 version = "0.1.0"
